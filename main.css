@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 25px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+h2{
+    font-size: 23px;
+    text-align: center;
+    font-style: oblique;
+}
+h3{
+    text-align: justify;
+    font-style: oblique;
+}
